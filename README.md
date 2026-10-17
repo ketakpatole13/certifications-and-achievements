@@ -19,7 +19,7 @@ As a B.Tech student specializing in Artificial Intelligence and Data Science, I 
 ### 2. Python Using AI Workshop
 - **Provider:** AI For Techies
 - **Completion Date:** August 24, 2025
-- **Certificate:** Available in this repository.
+- **Certificate:** [View Certificate on GitHub](https://github.com/ketakpatole13/certifications-and-achievements/blob/main/Python%20using%20AI%20Certificate.pdf)
 - **Skills Focus:**
   - Writing Python code using AI tools.
   - Debugging Python code with AI assistance.
