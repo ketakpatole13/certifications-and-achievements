@@ -37,7 +37,7 @@ As a B.Tech student specializing in Artificial Intelligence and Data Science, I 
 - **Platform:** Scaler Topics
 - **Completion Date:** October 15, 2026
 - **Course Content:** 79 video tutorials, 6 modules, and 6 challenges.
-- **Certificate:** [Verify Certificate]([https://ude.my/UC-e26596c9-d2f5-48e3-ab5c-5b8316816527](https://moonshot.scaler.com/s/sl/XDeAjyoKgI?_gl=1*v0ew26*_gcl_au*MjEzOTk1ODM2OS4xNzkxNDc0MzA0LjQ2NzY4OTE2OS4xNzkxNDc0NDE5LjE3OTE0NzQ0NjQuODQ0MDMzNjM1LjE3OTE0NzQ0MTkuMTc5MTQ3NDQ2NA..*FPAU*MTY1MTY4MzEzNS4xNzkxNDc0MzA0*_ga*MTQ2MzY0OTY3OS4xNzc4MjM1NzYz*_ga_53S71ZZG1X*czE3OTIyNjE1NzckbzckZzEkdDE3OTIyNjE1OTgkajM5JGwwJGg4NTMzNzIxNjk.))
+- **Certificate:** [View Certificate on GitHub](https://github.com/ketakpatole13/certifications-and-achievements/blob/main/Computer%20Networking%20Course%20Certificate.png)
 - **Skills Focus:** Computer networking concepts and foundational networking knowledge.
 
 ## 🎯 Areas of Interest
